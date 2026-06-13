@@ -30,3 +30,9 @@ This solution is engineered using clean code principles and architectural design
 1. Open your terminal and navigate to the project repository folder:
    ```bash
    cd UnitConversionApi
+2. Clean and run the application
+   ```bash
+   dotnet clean && dotnet run
+3. ```bash
+   Now listening on: http://localhost:5023
+   
